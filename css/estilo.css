@@ -1,0 +1,65 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+/*INDEX*/
+
+.barraNavegacion{
+	min-height: 12vh;
+	padding-left: 2vw;
+	padding-right: 2vw;
+	font-family: 'Roboto Mono';
+	font-weight: 200;
+	font-size: auto;
+}
+h1{
+	padding-top: 2%;
+	padding-left: 1%;
+	font-family: 'Roboto Mono';
+	font-weight: 100;
+	color:darkgrey;
+}
+
+#textCarousel{
+	font-family: 'Roboto Mono';
+	font-weight: 200;
+}
+
+#footer{
+	gap: 2vw;
+	padding-top: 4vh;
+}
+#copyright{
+	font-family: 'Roboto Mono';
+	font-weight: 200;
+	font-size: 12px;
+}
+	
+/*LA RESIDENCIA*/
+
+.video{
+	width: 100vw;
+	height: 50vh;
+	padding-top: 4vh;
+	padding-right: 2vw;
+}
+
+/*NOVEDADES*/
+
+#cuerpoNovedades{
+	font-family: 'Roboto Mono';
+	font-weight: 200;
+	font-size: 14px;
+	color: aliceblue;
+}
+#evento{
+	width: 100%;
+	height: auto;
+	object-fit: contain;
+}
+
+
+
+/*NOVEDADES*/
+
+/*NOVEDADES*/
